@@ -13,4 +13,4 @@ A clean, responsive Stopwatch built using HTML, CSS, and JavaScript.
 - Vanilla JavaScript (Date.now() for precision)
 
 ## Live Demo
-[PASTE YOUR GITHUB PAGES LINK HERE]
+https://krittikadey-ctrl.github.io/PRODIGY_WD_02/
